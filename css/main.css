@@ -1,13 +1,43 @@
+/*margin: 12px auto 6px auto;
+font-family: Helvetica,
+Arial,
+Sans-serif;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: normal;
+font-size-adjust: none;
+font-stretch: normal;
+-x--font: none;
+display: block;*/
 
 
-margin: 12px auto 6px auto; 
-font-family: Helvetica,Arial,Sans-serif; 
-font-style: normal; 
-font-variant: normal; 
-font-weight: normal; 
-font-size: 14px; 
-line-height: normal; 
-font-size-adjust: none; 
-font-stretch: normal; 
--x--font: none; 
-display: block; ">
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+
+
+/*.navbar-wrapper {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 20;
+}
+
+ Flip around the padding for proper display in narrow viewports 
+
+.navbar-wrapper > .container {
+	padding-right: 0;
+	padding-left: 0;
+}
+.navbar-wrapper .navbar {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+	width: auto;
+}*/

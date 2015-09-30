@@ -24,7 +24,7 @@ a:hover {
 .panel {
 	border-radius: 0;
 }
-.btn-danger {
+.btn-info {
 	background-color: #f44d3c;
 }
 .text-danger,
@@ -132,8 +132,12 @@ section {
 	color: #fff;
 	font-family: 'Bitter', serif;
 }
+#section1 h1 {
+	color: aqua;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
 #section4 {
-	background-color: #f6f6f6;
+	background-color: #fff;
 	color: #444;
 }
 #section2 {
@@ -144,13 +148,14 @@ section {
 	color: coral;
 }
 #section5 {
-	background-color: #fff;
+	color: firebrick;
 }
 #section6 {
-	background-color: #eee;
+	background-color: rgba(0, 0, 0, 0.7);
 	min-height: 130px;
 	padding-top: 40px;
 	padding-bottom: 40px;
+	color: lemonchiffon;
 }
 #section7 {
 	background-color: #f44d3c;
