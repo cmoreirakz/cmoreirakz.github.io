@@ -41,3 +41,7 @@ display: block;*/
 .navbar-wrapper .navbar .container {
 	width: auto;
 }*/
+
+h1 {
+	border-bottom: none;
+}
