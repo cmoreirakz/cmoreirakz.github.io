@@ -1,4 +1,4 @@
-/*margin: 12px auto 6px auto;
+				/*margin: 12px auto 6px auto;
 font-family: Helvetica,
 Arial,
 Sans-serif;
@@ -11,16 +11,10 @@ font-size-adjust: none;
 font-stretch: normal;
 -x--font: none;
 display: block;*/
-
-
-/* CUSTOMIZE THE NAVBAR
+				/* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
-
-
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
-
-
-/*.navbar-wrapper {
+				/* Special class on .container surrounding .navbar, used for positioning it into place. */
+				/*.navbar-wrapper {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -41,7 +35,26 @@ display: block;*/
 .navbar-wrapper .navbar .container {
 	width: auto;
 }*/
-
-h1 {
-	border-bottom: none;
-}
+				
+				#section1 h1 {
+					border-bottom: none;
+					font-size: 55px;
+					background: center no-repeat fixed url('../imgs/backgroundimg.jpg');
+					background-size: cover;
+					color: white;
+					padding: 15px;
+					border-style: double;
+					font-style: italic;
+				}
+				
+				#name {
+					color: black;
+				}
+				
+				#section1,
+				#section3,
+				#section5,
+				#section7 {
+					background-color: rgba(0, 0, 0, 0.7);
+					color: #fff;
+				}
